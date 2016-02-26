@@ -1,0 +1,29 @@
+### Order Parts ###
+TicketId: tical
+ServerId: method
+Customer: man
+Memory: tony starks
+HD: lou diamond
+OS: wutang
+MainIp: gza
+Location: rza
+SwitchPort: bobby seals
+DracPort: darmster
+DracIp: hel
+Rebooter: spurs
+Notes: ucla
+------------------------### Order Parts ###
+TicketId: tical
+ServerId: method
+Customer: man
+Memory: tony starks
+HD: lou diamond
+OS: wutang
+MainIp: gza
+Location: rza
+SwitchPort: bobby seals
+DracPort: darmster
+DracIp: hel
+Rebooter: spurs
+Notes: ucla
+------------------------

@@ -1,0 +1,28 @@
+### Order Parts ###
+TicketId: 8
+ServerId: 16
+Customer: 24
+Memory: 32
+HD: 40
+OS: 48
+MainIp: 56
+Location: 64
+SwitchPort: 72
+DracPort: 80
+DracIp: 88
+Rebooter: 96
+Notes: 104
+### Order Parts ###
+TicketId: 8
+ServerId: 16
+Customer: 24
+Memory: 32
+HD: 40
+OS: 48
+MainIp: 56
+Location: 64
+SwitchPort: 72
+DracPort: 80
+DracIp: 88
+Rebooter: 96
+Notes: 104
